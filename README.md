@@ -1,4 +1,5 @@
 # Seattle airbnb data analysis
+This project is the first projetc of Data Scientist Nanodegree on Udacity using Seattle Airbnb Open Data.
 1- Business understanding
 In this part, we are going to see, based on Seattle Airbnb Open Data which is provided by kaggle (listing datase), what factors are most related to: 
 a- Price
