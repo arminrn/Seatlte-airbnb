@@ -1,1 +1,1 @@
-# Seatlte-airbnb
+# Seattlte-airbnb
