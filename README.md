@@ -8,12 +8,12 @@ This project is the first projetc of Data Scientist Nanodegree on Udacity using 
 5- Result Evaluation
 
 This project aims to answer to 3 questions which can be helpful for both guests and landlords:
-
 1- What factors are most related to the prices of airbnb houses?
 2- What factors are most related to reviews values?
 3- How we can predict the price of Seattle Airbnbs?
 
-#Files:
+#Files
+
 This repository contains 4 files:
 1- Readme file which contains a small description of the project and the summary of the results.
 2- Listing.csv file, which is the Seattle Airbnb Open Data provided by kaggle.
