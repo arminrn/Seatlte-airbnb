@@ -1,4 +1,6 @@
 # Seattle airbnb data analysis
+#Description
+
 This project is the first projetc of Data Scientist Nanodegree on Udacity using Seattle Airbnb Open Data by following the CRISP-DM process, therefore 5 steps have implemented to analyse the data:
 
 1- Business Understanding 
@@ -20,7 +22,7 @@ This repository contains 4 files:
 3-Seattle airbnb price & review .ipynb, which contains the Python sourse code of related factors to price and review values.
 4- Seattle airbnb Price Prediction .ipynb, which contains the Python sourse code of price prediction.
 
-#Results:
+#Results
 
 Based on seaborn heatmap features such as bedroom, bathroom, beds, and accomodates are the most related features to price.
 Based on seaborn heatmap features such as number_of_reviews, review_scores_rating, review_scores_accuracy, review_scores_cleanliness, review_scores_checkin, review_scores_communication, and review_scores_location are most related features to review score value.
