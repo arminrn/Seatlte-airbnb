@@ -22,7 +22,7 @@ This project aims to answer to 3 questions which can be helpful for both guests 
 
 This repository contains 4 files:
 1- Readme file which contains a small description of the project and the summary of the results.
-2- Listing.csv file, which is the Seattle Airbnb Open Data provided by kaggle.
+2- Listings.csv file, which is the Seattle Airbnb Open Data provided by kaggle.
 3-Seattle airbnb price & review .ipynb, which contains the Python sourse code of related factors to price and review values.
 4- Seattle airbnb Price Prediction .ipynb, which contains the Python sourse code of price prediction.
 
