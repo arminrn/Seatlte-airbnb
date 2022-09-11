@@ -29,11 +29,15 @@ This repository contains 4 files:
 #Results
 
 Based on seaborn heatmap features such as bedroom, bathroom, beds, and accomodates are the most related features to price.
+
 Based on seaborn heatmap features such as number_of_reviews, review_scores_rating, review_scores_accuracy, review_scores_cleanliness, review_scores_checkin, review_scores_communication, and review_scores_location are most related features to review score value.
-Also, box plot figues have shown how cathegorical features like, room_type, property_type, and neighbourhood_group_cleansed have correlation with price and review score values.
+
+Also, box plot figues have shown how categorical features like, room_type, property_type, and neighbourhood_group_cleansed have correlation with price and review score values.
 
 Two algorythms have been used to predict the price, Linear Regression and Random Forest Regressor, and two method have been used to evaluate the models, r2_score, and mean_squared_error and the results shows:
+
 Linear Regression: r2_score= 0.46, mean_squared_error= 4225.5
+
 Random Forest Regressor: r2_score= 0.48, mean_squared_error= 4097.3
 
 
