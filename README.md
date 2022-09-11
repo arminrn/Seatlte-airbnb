@@ -10,9 +10,13 @@ This project is the first projetc of Data Scientist Nanodegree on Udacity using 
 5- Result Evaluation
 
 This project aims to answer to 3 questions which can be helpful for both guests and landlords:
+
 1- What factors are most related to the prices of airbnb houses?
+
 2- What factors are most related to reviews values?
+
 3- How we can predict the price of Seattle Airbnbs?
+
 
 #Files
 
