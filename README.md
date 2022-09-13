@@ -1,12 +1,17 @@
 # Seattle Airbnb data analysis
 # Installation
-All libraries are avilable in Jupyter notebook distribution of Python. Foloowing Libraries have been used:
+All libraries are avilable in Jupyter notebook distribution of Python. Following libraries have been used:
 
 seaborn
+
 sklearn
+
 NumPy
+
 Pandas
+
 matplotlib
+
 seaborn
 
 # Description
