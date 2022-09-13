@@ -24,6 +24,8 @@ This project is the first project of Data Scientist Nanodegree on Udacity using 
 4- Data Modeling
 5- Result Evaluation
 
+Each section has explicitly described in the notbooks
+
 This project aims to answer three questions which can be helpful for both guests and landlords:
 
 1- What factors are most related to the prices of Airbnb houses?
