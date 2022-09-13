@@ -1,4 +1,8 @@
 # Seattle Airbnb data analysis
+# Installation
+All libraries are avilable in Jupyter notebook distribution of Python.
+
+
 # Description
 
 This project is the first project of Data Scientist Nanodegree on Udacity using Seattle Airbnb Open Data by following the CRISP-DM process; therefore, five steps have been implemented to analyse the data:
