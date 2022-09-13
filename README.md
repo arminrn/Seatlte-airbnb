@@ -19,9 +19,13 @@ seaborn
 This project is the first project of Data Scientist Nanodegree on Udacity using Seattle Airbnb Open Data by following the CRISP-DM process; therefore, five steps have been implemented to analyse the data:
 
 1- Business Understanding 
+
 2- Data Understanding
+
 3- Data Preparation
+
 4- Data Modeling
+
 5- Result Evaluation
 
 Each section has explicitly described in the notbooks
