@@ -40,8 +40,8 @@ Linear Regression: r2_score= 0.46, mean_squared_error= 4225.5
 
 Random Forest Regressor: r2_score= 0.48, mean_squared_error= 4097.3
 
+# Acknowledgement
 
-
-
+The Airbnb dataset is avilable in Kaggle website: Seattle Airbnb.
 
 
